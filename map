@@ -1,6 +1,8 @@
 -/* API MAP */-
 
 api.haxs.dev/
+|_ /info
+|_ /map
 |_ /subdomains
 |_ /waves
 |_ /hax
